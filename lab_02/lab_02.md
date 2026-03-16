@@ -28,7 +28,7 @@
 Пояснение логики: Подзапрос находит все customer_id из таблицы sales, которые покупали товары типа 'automobile' (через соединение с products). Внешний запрос возвращает полную информацию о таких клиентах. DISTINCT убирает дубликаты, так как один клиент мог купить несколько автомобилей.
 
 Скриншот выполнения  SELECT (подзапрос, основная БД):
-[задание 2.2](https://github.com/MakhoninaAV/sql_files/blob/main/02_02.jpg)
+[задание 2.2](https://raw.githubusercontent.com/MakhoninaAV/sql_files/main/02_02.jpg)
 
 
 ---
@@ -39,7 +39,7 @@
 Пояснение логики: Функция COALESCE проверяет поле ip_address и возвращает его значение, если оно не NULL. Если значение отсутствует (NULL), подставляется строка 'Unknown IP'.
 
 Скриншот выполнения SELECT (COALESCE, основная БД):
-[задание 2.3](https://github.com/MakhoninaAV/sql_files/blob/main/02_03.jpg)
+[задание 2.3](https:/raw.githubusercontent.com/sql_files/main/02_03.jpg)
 
 
 ---
