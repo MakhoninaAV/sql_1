@@ -18,7 +18,7 @@
 Запрос вернул товары только 2019 года выпуска. В выборке представлены модели: Lemon Zester (scooter) и Model Chi (automobile).
 
 Скриншот:
-https://raw.githubusercontent.com/MakhoninaAV/sql_files/main/photo_5312197280809031491_y%20(1).jpg
+[задание 1.1](https://raw.githubusercontent.com/MakhoninaAV/sql_files/main/photo_5312197280809031491_y%20(1).jpg)
 
 ## Задание 1.2
 Вывести дилеров (dealerships) в городах 'Houston', 'Dallas', 'Austin'.
