@@ -20,5 +20,5 @@ select dealership_id,
     count(distinct product_id) as unique_products
 from sales
 group by dealership_id
-having count(distinct product_id) > 5
+having count(distinct product_id) > 10
 order by unique_products desc;
