@@ -16,7 +16,7 @@
 Пояснение логики: Для получения информации о продажах и ценах товаров используется INNER JOIN таблиц sales и products по product_id. Фильтрация по 2019 году выполнена с помощью функции EXTRACT.
 
 Скриншот выполнения SELECT (JOIN, основная БД):
-[задание 2.1](https://github.com/MakhoninaAV/sql_files/blob/main/02_01.jpg)
+[задание 2.1](https://raw.githubusercontent.com/MakhoninaAV/sql_files/main/02_01.jpg) 
 
 
 
