@@ -18,7 +18,7 @@
 Запрос вернул товары только 2019 года выпуска. В выборке представлены модели: Lemon Zester (scooter) и Model Chi (automobile).
 
 Скриншот:
-(https://raw.githubusercontent.com/MakhoninaAV/sql_files/main/photo_5312197280809031491_y%20(1).jpg)
+https://raw.githubusercontent.com/MakhoninaAV/sql_files/main/photo_5312197280809031491_y%20(1).jpg
 
 ## Задание 1.2
 Вывести дилеров (dealerships) в городах 'Houston', 'Dallas', 'Austin'.
@@ -27,7 +27,7 @@
 Запрос вернул дилерские центры, расположенные в указанных городах Техаса. В выборке представлены дилеры из Хьюстона и Далласа.
 
 Скриншот:
-<img width="1110" alt="image" src="https://github.com/user-attachments/assets/52e31865-f0f2-47f5-9dc8-c04d01a682f1" />
+https://raw.githubusercontent.com/MakhoninaAV/sql_files/main/photo_5312197280809031492_y%20(1).jpg
 
 ## Задание 1.3 (CRUD операции)
 Создать таблицу old_stock (товары до 2020 года).
@@ -39,8 +39,7 @@
 В итоговой таблице остались только скутеры и недорогие модели
 
 Скриншот:
-<img width="774" alt="image" src="https://github.com/user-attachments/assets/abe0338b-9928-4c72-b03f-157debeb64fd" />
-
+https://raw.githubusercontent.com/MakhoninaAV/sql_files/main/photo_5312197280809031495_y%20(1).jpg
 # Вывод
 
 В ходе выполнения лабораторной работы были выполнены SELECT-запросы с условиями фильтрации и сортировкой, а также реализованы CRUD-операции (создание таблицы, добавление столбца, обновление и удаление данных).
